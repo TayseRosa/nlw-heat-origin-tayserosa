@@ -1,14 +1,5 @@
 <h1 align="center"> JS - Crachá Virtual DoWhile</h1>
 
-#Índice
-- [➡️ Demo](#️-demo)
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-  
-
-# ➡️ Demo
 <p align="center">
   <img src="https://github.com/rocketseat-education/nlw-heat-origin/blob/main/.github/nlw-heat.png" width="100%" />
 </p>
